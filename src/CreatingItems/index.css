@@ -1,0 +1,33 @@
+.listItemCard {
+  display: flex;
+  list-style-type: none;
+  align-items: center;
+  justify-content: space-between;
+}
+.timeLogoUrlContainer {
+  display: flex;
+  align-items: center;
+}
+.logoUrl {
+  width: 20px;
+  height: 20px;
+  margin-right: 10px;
+}
+.time {
+  width: 80px;
+}
+.middleCard {
+  display: flex;
+  align-items: center;
+}
+.title {
+  font-weight: bold;
+  font-size: 12px;
+  margin-right: 10px;
+}
+.dltButton {
+  background-color: white;
+  outline: none;
+  border: none;
+  cursor: pointer;
+}
